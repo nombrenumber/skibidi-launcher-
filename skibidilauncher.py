@@ -1,5 +1,5 @@
 ######################
-#  Original Made by yanis_truc #
+#  Original Made by yanis_truc and fripouileuh #
 #  Copy made by Fripouilleuh 
 # ohhh zedcuatro cuatro cuatro#
 ######################
